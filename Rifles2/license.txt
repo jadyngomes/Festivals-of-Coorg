@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Precision Rifle Chassis
+* source:	https://sketchfab.com/3d-models/low-poly-precision-rifle-chassis-ece527b242764cc2ba92ed82a5382c42
+* author:	austincford (https://sketchfab.com/austincford)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Precision Rifle Chassis" (https://sketchfab.com/3d-models/low-poly-precision-rifle-chassis-ece527b242764cc2ba92ed82a5382c42) by austincford (https://sketchfab.com/austincford) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
