@@ -1,0 +1,11 @@
+Model Information:
+* title:	Indian Farmer
+* source:	https://sketchfab.com/3d-models/indian-farmer-9e905cf8d59840bbb86fac19f86f34cb
+* author:	Cheruku Raju (https://sketchfab.com/rajucheruku3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Indian Farmer" (https://sketchfab.com/3d-models/indian-farmer-9e905cf8d59840bbb86fac19f86f34cb) by Cheruku Raju (https://sketchfab.com/rajucheruku3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
