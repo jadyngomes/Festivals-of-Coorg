@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Pitchfork
+* source:	https://sketchfab.com/3d-models/wooden-pitchfork-11a322a4ca49429f8991d0bb8d5633f1
+* author:	Max Wittig (https://sketchfab.com/WittigMax)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Pitchfork" (https://sketchfab.com/3d-models/wooden-pitchfork-11a322a4ca49429f8991d0bb8d5633f1) by Max Wittig (https://sketchfab.com/WittigMax) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
