@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banana Tree
+* source:	https://sketchfab.com/3d-models/banana-tree-7186ebfc24fc42c599f81713cd28d55e
+* author:	DJMiddi (https://sketchfab.com/DJMiddi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banana Tree" (https://sketchfab.com/3d-models/banana-tree-7186ebfc24fc42c599f81713cd28d55e) by DJMiddi (https://sketchfab.com/DJMiddi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
