@@ -1,0 +1,377 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 276,
+      "max": [
+        0.2814408242702484,
+        4.078843593597412,
+        23.82109832763672
+      ],
+      "min": [
+        -0.2814392149448395,
+        -1.483015537261963,
+        -5.050047397613525
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3312,
+      "componentType": 5126,
+      "count": 276,
+      "max": [
+        0.9999953508377075,
+        0.9998980760574341,
+        0.9898294806480408
+      ],
+      "min": [
+        -0.9999953508377075,
+        -0.9999403357505798,
+        -0.20197588205337524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 276,
+      "max": [
+        0.8413679599761963,
+        0.5940767526626587,
+        0.9999960660934448,
+        1.0
+      ],
+      "min": [
+        -0.24770604074001312,
+        -0.5943509340286255,
+        -0.9999952912330627,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 276,
+      "max": [
+        0.9633479714393616,
+        0.9714897871017456
+      ],
+      "min": [
+        0.05463346093893051,
+        0.541912317276001
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1386,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6624,
+      "componentType": 5126,
+      "count": 978,
+      "max": [
+        1.8441004753112793,
+        4.804356098175049,
+        -3.8438258171081543
+      ],
+      "min": [
+        -1.8441038131713867,
+        -4.804356098175049,
+        -23.821094512939453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18360,
+      "componentType": 5126,
+      "count": 978,
+      "max": [
+        1.0,
+        0.9996432065963745,
+        0.9999640583992004
+      ],
+      "min": [
+        -1.0,
+        -0.9994091391563416,
+        -0.9998724460601807
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4416,
+      "componentType": 5126,
+      "count": 978,
+      "max": [
+        0.9958519339561462,
+        0.9524853825569153,
+        0.999281108379364,
+        1.0
+      ],
+      "min": [
+        -0.9991998672485352,
+        -0.9520612359046936,
+        -0.9994928240776062,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2208,
+      "componentType": 5126,
+      "count": 978,
+      "max": [
+        0.8489382863044739,
+        0.5764653086662292
+      ],
+      "min": [
+        0.09878303855657578,
+        0.013392388820648193
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5544,
+      "componentType": 5125,
+      "count": 5184,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "CrisLArt (https://sketchfab.com/crispichu25)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/jade-dagger-c1a9074cbf0e4bfb8203b6d575795f89",
+      "title": "Jade dagger"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 26280,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10032,
+      "byteOffset": 26280,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30096,
+      "byteOffset": 36312,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20064,
+      "byteOffset": 66408,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 86472,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/dagger1_baseColor.png"
+    },
+    {
+      "uri": "textures/dagger1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/dagger1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "dagger1",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "blade_dagger1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "knife_grip_dagger1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "e4537dc104bb4ab9a3f30fc799dcf8e7.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "dagger"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "blade"
+    },
+    {
+      "mesh": 0,
+      "name": "blade_dagger1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "knife_grip"
+    },
+    {
+      "mesh": 1,
+      "name": "knife_grip_dagger1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jade dagger
+* source:	https://sketchfab.com/3d-models/jade-dagger-c1a9074cbf0e4bfb8203b6d575795f89
+* author:	CrisLArt (https://sketchfab.com/crispichu25)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jade dagger" (https://sketchfab.com/3d-models/jade-dagger-c1a9074cbf0e4bfb8203b6d575795f89) by CrisLArt (https://sketchfab.com/crispichu25) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

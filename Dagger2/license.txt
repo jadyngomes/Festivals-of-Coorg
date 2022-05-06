@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fantasy Dagger
+* source:	https://sketchfab.com/3d-models/fantasy-dagger-fb9f3c3ccb3049169ded63bf0e602a1e
+* author:	Amarveer (https://sketchfab.com/amarveer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fantasy Dagger" (https://sketchfab.com/3d-models/fantasy-dagger-fb9f3c3ccb3049169ded63bf0e602a1e) by Amarveer (https://sketchfab.com/amarveer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	1H Dagger
+* source:	https://sketchfab.com/3d-models/1h-dagger-26041d6d41da46f6a9701dff4d44566f
+* author:	Offy (https://sketchfab.com/axe163)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1H Dagger" (https://sketchfab.com/3d-models/1h-dagger-26041d6d41da46f6a9701dff4d44566f) by Offy (https://sketchfab.com/axe163) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
